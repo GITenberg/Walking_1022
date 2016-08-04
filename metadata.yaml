@@ -1,0 +1,33 @@
+_repo: Walking_1022
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: This essay was presented as a lecture by Thoreau in his later years,
+  but only published after his death. It's best known for its quote "In wildness is
+  the preservation of the world", which has become a rallying cry of the environmental
+  movement. But Thoreau means much more by the phrase then most of his modern admirers
+  realise. "Wildness" is Nature itself, and humankind is seen as an aspect or manifestation
+  of Nature; the rules that apply to one apply to the other.
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature'
+- !lcc 'PS'
+- !lcsh 'Essays'
+- !lcsh 'Walking'
+- GITenberg
+title: Walking
+url: http://www.gutenberg.org/ebooks/1022
