@@ -1,5 +1,8 @@
 _repo: Walking_1022
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thoreau, Henry David
@@ -15,6 +18,8 @@ description: This essay was presented as a lecture by Thoreau in his later years
   movement. But Thoreau means much more by the phrase then most of his modern admirers
   realise. "Wildness" is Nature itself, and humankind is seen as an aspect or manifestation
   of Nature; the rules that apply to one apply to the other.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1022#Walking
 gutenberg_issued: '1997-08-01'
 gutenberg_type: Text
 identifiers:
